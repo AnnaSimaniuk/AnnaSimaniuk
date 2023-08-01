@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anna Simaniuk</h1>
 <h3 align="center">A passionate frontend developer from Ukraine.</h3>
-<img align="right" alt="Coding" width="400" src="https://s11.gifyu.com/images/ScIvF.gif">
+<img align="right" alt="Coding" width="400" src="https://s11.gifyu.com/images/ScIvG.gif">
 
 - 🔭 I’m currently working on [Mealsy app](https://github.com/AnnaSimaniuk/mealsy-app)
 
