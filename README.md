@@ -12,8 +12,9 @@
 
 - 💬 Ask me about **React**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GGyxizkPFJosqPSWL35Aa4EaeM0YmCB_/view?usp=drive_link](https://drive.google.com/file/d/1GGyxizkPFJosqPSWL35Aa4EaeM0YmCB_/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PY1FWvwAA12FbW6S7O62GdNedGOcyatU/view?usp=drive_link)
 
+- 😎 Visit my resume site [https://resume-4fevo6gzo-annasimaniuk.vercel.app/](https://resume-4fevo6gzo-annasimaniuk.vercel.app/)
 
 <div align="center"> 
   <a href="mailto:anna.shchavinska@gmail.com">
