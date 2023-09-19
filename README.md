@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React | NextJs**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PY1FWvwAA12FbW6S7O62GdNedGOcyatU/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12vszazq5PkCelOuG86PNRjlWVjMTSIP6/view?usp=drive_link)
 
 - 😎 Visit my resume site [https://resume-annasimaniuk.vercel.app/](https://resume-annasimaniuk.vercel.app/)
 
@@ -33,7 +33,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=babel,bash,bootstrap,css,express,figma,git,github,html,redux" /><br>
     <img src="https://skillicons.dev/icons?i=graphql,gulp,js,jest,materialui,mongodb,nextjs,nodejs,postman,react" /><br>
-  <img src="https://skillicons.dev/icons?i=sass,tailwind,ts,vite,webpack" /><br>
+  <img src="https://skillicons.dev/icons?i=sass,tailwind,ts,vite,webpack,qwik" /><br>
 </div>
 
 <br/>
