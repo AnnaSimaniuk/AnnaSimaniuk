@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React | NextJs**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12vszazq5PkCelOuG86PNRjlWVjMTSIP6/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1j3DAPN3Zjfkac9aJGV2VfSbIOvitqMBx/view?usp=sharing)
 
 - 😎 Visit my resume site [https://resume-annasimaniuk.vercel.app/](https://resume-annasimaniuk.vercel.app/)
 
