@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PY1FWvwAA12FbW6S7O62GdNedGOcyatU/view?usp=drive_link)
 
-- 😎 Visit my resume site [https://resume-4fevo6gzo-annasimaniuk.vercel.app/](https://resume-4fevo6gzo-annasimaniuk.vercel.app/)
+- 😎 Visit my resume site [https://resume-annasimaniuk.vercel.app/](https://resume-annasimaniuk.vercel.app/)
 
 <div align="center"> 
   <a href="mailto:anna.shchavinska@gmail.com">
